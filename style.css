@@ -1,0 +1,25 @@
+
+body {
+  background-color: powderblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+p {
+  color: red;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 6;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: powderblue;
+  border:0dvi;
+  color: white;
+}
